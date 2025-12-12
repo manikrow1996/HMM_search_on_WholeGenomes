@@ -36,7 +36,7 @@ The limit of download is 100 sequence at a time, if you have more download as se
 
 ### 3. searching the whole genomes for the presence of target protein.
 	  
-  a. Annotate all the genomes and move all teh .faa files into one directory.
+  a. Annotate all the genomes and move all the .faa files into one directory.
 	  
   b. HMM search for the target protein using the ```1.nifH_pipeline.py```     script and making the matrix using ```2.nifH_matrix_scores.py script```.The input/output has to be changed based ion the target sequence
 
