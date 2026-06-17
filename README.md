@@ -30,7 +30,7 @@ The limit of download is 100 sequence at a time, if you have more download as se
 	
   c. Build the HMMprofile
 ```bash
-    hmmbuild 4.seq.hmm 3.nifH_seq.fasta
+    hmmbuild 4.seq.hmm 3.seq_aligned.fasta
    ```
 		
 
